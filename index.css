@@ -1,0 +1,22 @@
+
+/*Css for text*/
+.nav-link.active {
+	color: #FF5C8D!important;
+}
+
+.nav-link {
+	color: #333333;
+	font-weight: 500;
+	font-family: Montserrat;
+	font-size:20px;
+}
+.tagName {
+	font-size:70px;
+	font-weight: 700;
+	color: #FF5C8D;
+}
+.text-cont {
+	margin-top:12em;
+
+;
+}
