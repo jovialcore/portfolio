@@ -11,12 +11,16 @@
 	font-size:20px;
 }
 .tagName {
-	font-size:70px;
+	font-size:100px;
 	font-weight: 700;
 	color: #FF5C8D;
+	white-space: nowrap;
 }
 .text-cont {
 	margin-top:12em;
 
-;
 }
+
+
+
+
