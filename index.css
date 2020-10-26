@@ -1,5 +1,5 @@
 
-/*Css for text*/
+/*NOTE: All styles are written in a particular first-place order as the appear on the HTML file. Thanks!*/
 .nav-link.active {
 	color: #FF5C8D!important;
 }
@@ -11,16 +11,78 @@
 	font-size:20px;
 }
 .tagName {
-	font-size:100px;
+	font-size:80px;
 	font-weight: 700;
 	color: #FF5C8D;
-	white-space: nowrap;
+	white-space: nowrap;	
 }
 .text-cont {
 	margin-top:12em;
 
 }
 
+.first-section{
+	margin-left: 6.5em;
+}
+.FS-text {
+	margin-top: 10em;
+}
+
+.FS-Img {
+	background-image: url(portfolio.svg);
+	height: 39em;
+	background-repeat: no-repeat;
+	background-size: contain;
+	margin-top: -3.5em;
+	margin-left:2em; 
+
+}
+
+@media only screen and (max-width: 1307px) {
+.first-section{
+	margin-left: 3em;
+}
+.tagName {
+	font-size:73px;
+}
+
+}
+
+@media only screen and (max-width: 1146px) {
+
+	.FS-Img {
+		margin-top: -3em;
+		margin-left:4em; 
+		border: 3px solid red;
+	}
+
+	.first-section{
+	margin-left: 1em;
+}
+.tagName {
+	font-size:65px;
+}
+
+}
+
+@media only screen and (max-width:1061px) {
+	.FS-Img {
+	margin-top: -2.6em;
+	border:3px solid yellow;
+	
+	}
+.col-md-7 {
+    flex: 0 0 60.333333%;
+    max-width: 60.333333%;
+    margin-left:auto;
+}
+
+.col-md-5 {
+    -ms-flex: 0 0 41.666667%;
+    flex: 0 0 30.666667%;
+    max-width: 30.666667%;
+}
 
 
 
+}
