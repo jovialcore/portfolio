@@ -77,6 +77,12 @@ font-weight: 900!important;
   padding-top:.178997em;
 }
 
+.S-icon {
+	background-color: #FF5C8D;
+	border-radius: 50%;
+	width: 35px;
+	height: 35px;
+}
 @media only screen and (max-width: 1307px) {
 .first-section{
 	margin-left: 3em;
