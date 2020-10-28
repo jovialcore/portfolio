@@ -7,7 +7,7 @@
 .nav-link {
 	color: #333333;
 	font-weight: 500;
-	font-family: Montserrat;
+
 	font-size:20px;
 }
 .tagName {
@@ -82,6 +82,11 @@ font-weight: 900!important;
 	border-radius: 50%;
 	width: 35px;
 	height: 35px;
+}
+
+.nav-pills > .nav-item > .active {
+		background-color: #FF5C8D!important;
+		color:white!important;
 }
 @media only screen and (max-width: 1307px) {
 .first-section{
