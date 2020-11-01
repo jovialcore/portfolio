@@ -84,6 +84,9 @@ font-weight: 900!important;
 	height: 35px;
 }
 
+.but {
+	background-color: #FF5C8D;
+}
 .nav-pills > .nav-item > .active {
 		background-color: #FF5C8D!important;
 		color:white!important;
