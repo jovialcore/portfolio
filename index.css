@@ -91,6 +91,18 @@ font-weight: 900!important;
 		background-color: #FF5C8D!important;
 		color:white!important;
 }
+
+.form-control { 
+
+	border: 1px solid #e8598c;
+
+}
+.jov {
+	background-image: url(dot.svg);
+	background-repeat: no-repeat;
+	background-size: 120px 120px;
+	background-position: right top;
+}
 @media only screen and (max-width: 1307px) {
 .first-section{
 	margin-left: 3em;
