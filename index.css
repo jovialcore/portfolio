@@ -98,21 +98,20 @@ font-weight: 900!important;
 
 }
 .jov {
-	background-image: url(dot.svg);
+	background-image: url(leftEclipse.svg);
 	background-repeat: no-repeat;
-	background-size: 200px 200px;
-	background-position: right top 0px;
-
-
+	background-position: center right;
 }
-
+.jov {
+	background-image: url(eclip.svg);
+	background-repeat: no-repeat;
+	background-position: center left;
+}
 .second-divider  {
 	background-image: url(leftEclipse.svg);
 	background-repeat: no-repeat;
-	background-size: 200px 200px;
-	background-position: right top 0px;
-
-
+	background-size: 250px 250px;
+	background-position: 370px 430px;
 }
 @media only screen and (max-width: 1307px) {
 .first-section{
