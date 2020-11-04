@@ -16,6 +16,6 @@
 <pattern id="pattern0" patternContentUnits="objectBoundingBox" width="1" height="1">
 <use xlink:href="#image0" transform="translate(0 -0.167577) scale(0.00266667 0.00200173)"/>
 </pattern>
-<image id="image0" width="320" height="795" xlink:href="https://res.cloudinary.com/chidiebere/image/upload/v1604495294/porttwoo.png"/>
+<image id="image0" width="375" height="667" xlink:href="https://res.cloudinary.com/chidiebere/image/upload/v1604495294/porttwoo.png"/>
 </defs>
 </svg>

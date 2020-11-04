@@ -1,5 +1,7 @@
 
 /*NOTE: All styles are written in a particular first-place order as the appear on the HTML file. Thanks!*/
+
+
 .nav-link.active {
 	color: #FF5C8D!important;
 }
@@ -32,7 +34,7 @@
 	font-size:25px;
 }
 .FS-Img {
-	background-image: url(portfolio.svg);
+	background-image: url(try.svg);
 	height: 39em;
 	background-repeat: no-repeat;
 	background-size: contain;
@@ -98,14 +100,9 @@ font-weight: 900!important;
 
 }
 .jov {
-	background-image: url(leftEclipse.svg);
+	background-image: url(leftEclipse.svg), url(eclip.svg);
 	background-repeat: no-repeat;
-	background-position: center right;
-}
-.jov {
-	background-image: url(eclip.svg);
-	background-repeat: no-repeat;
-	background-position: center left;
+	background-position: center right, 0em 50em;
 }
 .second-divider  {
 	background-image: url(leftEclipse.svg);
