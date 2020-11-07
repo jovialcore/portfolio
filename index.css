@@ -34,7 +34,7 @@
 	font-size:25px;
 }
 .FS-Img {
-	background-image: url(ft.svg);
+	background-image: url(portfolio.svg);
 	height: 39em;
 	background-repeat: no-repeat;
 	background-size: contain;
@@ -44,7 +44,7 @@
 }
 
 .FS-Img-two {
-	background-image: url(portfolio.svg);
+	background-image: url(ft.svg);
 	height: 39em;
 	background-repeat: no-repeat;
 	background-size: contain;
